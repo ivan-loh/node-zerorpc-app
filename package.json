@@ -1,0 +1,31 @@
+{
+  "name": "node-zerorpc-app",
+  "version": "0.0.1",
+  "description": "HAproxy load balancing example for zerorpc servers",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "zerorpc": "^0.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-loh/node-zerorpc-app.git"
+  },
+  "keywords": [
+    "haproxy",
+    "zerorpc",
+    "server",
+    "load",
+    "balancing"
+  ],
+  "author": "Ivan Loh <ivan@eriad.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-loh/node-zerorpc-app/issues"
+  },
+  "homepage": "https://github.com/ivan-loh/node-zerorpc-app#readme"
+}
